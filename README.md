@@ -1,2 +1,2 @@
 # test-repo
-TOAST
+Test
